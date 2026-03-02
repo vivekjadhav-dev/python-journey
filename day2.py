@@ -1,4 +1,4 @@
-# day 2 -myython first intentional progaram 
+# day 2 -my python first intentional progaram 
 # vivek jadhav |python journey 2026
 name = "vivek"
 age = 20
